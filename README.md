@@ -1,4 +1,6 @@
 # Index
+- [Programming](#programming)
+  - [Scala](#scala)
 - [Projects](#projects)
   - [Paperwork](#paperwork)
 
