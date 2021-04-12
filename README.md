@@ -4,6 +4,8 @@
   - [Tools](#tools)
 - [DevOps](#devops)
   - [Docker](#docker)
+  - [Microsoft](#microsoft)
+- [Others](#others)
 - [Programming](#programming)
   - [Scala](#scala)
 - [Projects](#projects)
@@ -20,6 +22,13 @@
 # DevOps
 ## Docker
 - [Docker 101](https://www.docker.com/101-tutorial) - Official (and free) Docker tutorial to get started.
+## Microsoft
+- [Microsoft Certification](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI) - Roadmap to see which certifications to complete.
+- [Microsoft Learn](https://docs.microsoft.com/en-us/learn/) - Microsoft's platform with many courses, slowly getting you ready for any official certification.
+
+
+# Others
+- [ASCII-art Generator](https://www.patorjk.com/software/taag/#p=display&f=Big&t=Type%20Something%20) - Write a phrase, pick a style and... *bam*: u got ur ASCII-art. Not much to say.
 
 
 # Programming
