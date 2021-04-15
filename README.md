@@ -5,12 +5,24 @@
 - [DevOps](#devops)
   - [Docker](#docker)
   - [Microsoft](#microsoft)
+- [Networking](#networking)
+  - [DNS](#dns)
 - [Others](#others)
 - [Programming](#programming)
   - [Scala](#scala)
 - [Projects](#projects)
   - [Paperwork](#paperwork)
 
+---
+
+# Summary Table
+
+| Technology     | Open-source | Operative System | Labels     |
+| :------------- | :---------: | :--------------: | :--------- | 
+| **Networking** |             |                  |            |
+| _DNS_          |      ✔️     | _Raspbian_ & [others](https://docs.pi-hole.net/main/prerequisites/#supported-operating-systems) | _Ad-blocker, Multi-platform, Malware Protection_ |
+
+---
 
 # Databases
 ## MongoDB
@@ -36,6 +48,11 @@
  platform with many courses, slowly getting you ready for any official 
  certification.
 
+
+# Networking
+## DNS
+- [Pi-hole](https://pi-hole.net/) - Network-based ad-blocking software and 
+  custom DNS Server for Raspberry Pi devices running _Raspbian_.
 
 # Others
 - [ASCII-art Generator](https://www.patorjk.com/software/taag/#p=display&f=Big&t=Type%20Something%20) - 
