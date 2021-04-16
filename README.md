@@ -7,21 +7,21 @@ documentation, CI/CD, programming, etc.
 
 # Index
 
-- [Databases](Databases.md#databases)
-  - [MongoDB](Databases.md#mongodb)
-  - [Tools](Databases.md#tools)
-- [DevOps](#devops)
-  - [Docker](#docker)
-  - [Drone](#drone)
-  - [Microsoft](#microsoft)
-  - [SonaQube](#sonarqube)
-- [Networking](#networking)
-  - [DNS](#dns)
-- [Others](#others)
-- [Programming](#programming)
-  - [Scala](#scala)
-- [Projects](#projects)
-  - [Paperwork](#paperwork)
+- [Databases](categories/Databases.md#databases)
+  - [MongoDB](categories/Databases.md#mongodb)
+  - [Tools](categories/Databases.md#tools)
+- [DevOps](categories/Devops.md#devops)
+  - [Docker](categories/Devops.md#docker)
+  - [Drone](categories/Devops.md#drone)
+  - [Microsoft](categories/Devops.md#microsoft)
+  - [SonaQube](categories/Devops.md#sonarqube)
+- [Networking](categories/Networks.md#networking)
+  - [DNS](categories/Networks.md#dns)
+- [Others](categories/Others.md#others)
+- [Programming](categories/Programming.md#programming)
+  - [Scala](categories/Programming.md#scala)
+- [Projects](categories/Projects.md#projects)
+  - [Paperwork](categories/Projects.md#paperwork)
 
 ---
 
