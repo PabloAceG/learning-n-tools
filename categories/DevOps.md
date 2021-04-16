@@ -5,13 +5,14 @@
 ## Drone
 - [Drone CI Webpage](https://www.drone.io/) - Self-service Continuous Integratin platform for busy development teams.
 - [Drone CI GitHub](https://github.com/drone) - Drone CI official repository.
-## SonarQube
-- [SonarQube Webpage](https://www.sonarqube.org/) - Automation of code analysis rules.
-- [SonarSource GitHub](https://github.com/SonarSource) - SonarSource official repository.
 ## Microsoft
 - [Microsoft Certification](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI) - 
   Roadmap to see which certifications to complete.
 - [Microsoft Learn](https://docs.microsoft.com/en-us/learn/) - Microsoft's 
  platform with many courses, slowly getting you ready for any official 
  certification.
+## SonarQube
+- [SonarQube Webpage](https://www.sonarqube.org/) - Automation of code analysis rules.
+- [SonarSource GitHub](https://github.com/SonarSource) - SonarSource official repository.
+
 
