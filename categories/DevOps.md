@@ -5,6 +5,8 @@
 ## Drone
 - [Drone CI Webpage](https://www.drone.io/) - Self-service Continuous Integratin platform for busy development teams.
 - [Drone CI GitHub](https://github.com/drone) - Drone CI official repository.
+## Gitea
+- [Gitea Webpage](https://gitea.io/en-us/) -  It is an Open-Source version control system. Like GitHub, but can also be self-hosted.
 ## Microsoft
 - [Microsoft Certification](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI) - 
   Roadmap to see which certifications to complete.
