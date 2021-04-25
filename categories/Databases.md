@@ -14,7 +14,9 @@ private health information).
 
 ### MS Server
 _License_: Propietary.
+
 _Operative Systems_: Linux, Windows.
+
 _Implementation_: C/C++.
 
 - [MS-SQL Server official webpage](https://www.microsoft.com/en-us/windows-server/).
@@ -22,7 +24,9 @@ _Implementation_: C/C++.
 
 ### MySQL
 _License:_ GLPv2 and propietary.
+
 _Operating Systems_: Linux, Windows, macOS, Solaris, FreeBSD, _etc_.
+
 _Implementation_: C/C++.
 
 - [MySQL official webpage](https://www.mysql.com).
@@ -30,14 +34,18 @@ _Implementation_: C/C++.
 
 ### Oracle SQL
 _License_: Propietary.
+
 _Operating Systems_: Anything that supports JVM.
+
 _Implementation_: Java.
 
 - [Oracle SQL official webpage](https://www.oracle.com/database/technologies/appdev/sqldeveloper-landing.html).
 
 ### PostgreSQL
 _Liscense_: PostgreSQL License (free and open-source, permissive).
+
 _Operating Systems_: macOS, Windows, Linux, FreeBSD, OpenBSD.
+
 _Implementation_: C.
 
 - [PostgreSQL official webpage](https://www.postgresql.org/).
@@ -60,7 +68,9 @@ Use when:
 
 #### Couchbase
 _License_: Apache License 2.0.
+
 _Operating Systems_: Linux, Windows and macOS.
+
 _Implementation_: C++, Erlang, C, Go.
 
 - [Couchbase official webpage](https://www.couchbase.com/).
@@ -68,7 +78,9 @@ _Implementation_: C++, Erlang, C, Go.
 
 #### MongoDB
 _License_: Server Side Public License.
+
 _Operating Systems_: Linux, Windows, macOS, Solaris, FreeBSD.
+
 _Implementation_: C++, JavaScript, Python.
 
 - [MongoDB official webpage](https://www.mongodb.com/).
@@ -91,7 +103,9 @@ Use when:
 
 #### Memcached
 _License_: Revised BSD license.
+
 _Operating Systems_: Unix-based, Windows.
+
 _Implementation_: C.
 
 - [Memcached official webpage](https://www.memcached.org/).
@@ -99,7 +113,9 @@ _Implementation_: C.
 
 #### Redis
 _License_: BSD 3-clause.
+
 _Operating Systems_: Unix-based.
+
 _Implementation_: C.
 
 - [Redis official webpage](https://redis.io/).
@@ -116,7 +132,9 @@ Use when:
 
 #### Cassandra
 _License_: Apache License 2.0.
+
 _Operating Systems_: Anything that supports JVM.
+
 _Implementation_: Java.
 
 - [Cassandra official webpage](https://cassandra.apache.org/).
@@ -124,7 +142,9 @@ _Implementation_: Java.
 
 #### HBase
 _License_: Apache License 2.0.
+
 _Operating Systems_: Anything that supports JVM.
+
 _Implementation_: Java.
 
 - [HBase official webpage](https://hbase.apache.org/).
@@ -140,7 +160,9 @@ Use when:
 
 #### Elasticseach
 _License_: Elastic License (propietary, source available) and Server Side Public License.
+
 _Operating Systems_: Anything that support JVM.
+
 _Implementation_: Java.
 
 - [Elasticsearch official webpage](https://www.elastic.co/).
