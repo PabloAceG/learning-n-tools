@@ -8,8 +8,25 @@ documentation, CI/CD, programming, etc.
 # Index
 
 - [Databases](categories/Databases.md#databases)
-  - [MongoDB](categories/Databases.md#mongodb)
+  - [Relational](categories/Databases.md#relational)
+    - [MS Server](categories/Databases.md#ms-server)
+    - [MySQL](categories/Databases.md#mysql)
+    - [Oracle SQL](categories/Databases.md#oracle-sql)
+    - [PostgreSQL](categories/Databases.md#postgresql)
+  - [Non-Relational](categories/Databases.md#non-relational)
+    - [Document Store](categories/Databases.md#document-store)
+      - [Couchbase](categories/Databases.md#couchbase)
+      - [MongoDB](categories/Databases.md#mongodb)
+    - [Key-Value Store](categories/Databases.md#key-value-store)
+      - [Memcached](categories/Databases.md#memcached)
+      - [Redis](categories/Databases.md#redis)
+    - [Wide-Column Store](categories/Databases.md#wide-column-store)
+      - [Cassandra](categories/Databases.md#cassandra)
+      - [HBase](categories/Databases.md#hbase)
+    - [Search Engine](categories/Databases.md#search-engine)
+      - [Elasticsearch](categories/Databases.md#elasticsearch)
   - [Tools](categories/Databases.md#tools)
+    - [Backup Ninga](categories/Databases.md#backup-ninja)
 - [DevOps](categories/DevOps.md#devops)
   - [Docker](categories/DevOps.md#docker)
   - [Drone](categories/DevOps.md#drone)
@@ -27,14 +44,7 @@ documentation, CI/CD, programming, etc.
 
 # Summary Table
 
-| Technology     | Open-source | Operative System | Labels     |
-| :------------- | :---------: | :--------------: | :--------- | 
-| **Networking** |             |                  |            |
-| _DNS_          |      ✔️      | _Raspbian_ & [others](https://docs.pi-hole.net/main/prerequisites/#supported-operating-systems) | _Ad-blocker, Multi-platform, Malware Protection_ |
-| **DevOps**     |             |                  |            |
-| _Drone_        |      ✔️      | Any (_Docker_)   | _CI Tool, Test Code_ |
-| _SonarQube_    |      ✔️*     | Any (_Jenkins, Azure DevOps Server, etc._) | _CI Tool, Test Code_ |
-
-_NOTE_:
-_*: Community_
+- [ ] Big-ass TODO here. Need to do it in HTML to have all desired funcionality. Org probably has other option: look it
+up bitch.
+- [ ] Export to Org (what's possible).
 
