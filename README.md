@@ -39,6 +39,8 @@ documentation, CI/CD, programming, etc.
   - [Scala](categories/Programming.md#scala)
 - [Projects](categories/Projects.md#projects)
   - [Paperwork](categories/Projects.md#paperwork)
+- [Security](categories/Security.md#security)
+  - [OpenSCAP](categories/Security.md#openscap)
 
 ---
 
