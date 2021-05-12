@@ -36,6 +36,7 @@ documentation, CI/CD, programming, etc.
   - [DNS](categories/Networks.md#dns)
 - [Others](categories/Others.md#others)
 - [Programming](categories/Programming.md#programming)
+  - [Ruby](categories/Programming.md#ruby)
   - [Scala](categories/Programming.md#scala)
 - [Projects](categories/Projects.md#projects)
   - [Paperwork](categories/Projects.md#paperwork)
