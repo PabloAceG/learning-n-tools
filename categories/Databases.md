@@ -23,7 +23,7 @@ _Implementation_: C/C++.
 - [MS-SQL Server GitHub repository](https://github.com/microsoft?q=mssql&type=&language=&sort=).
 
 ### MySQL
-_License:_ GLPv2 and propietary.
+_License_: GLPv2 and propietary.
 
 _Operating Systems_: Linux, Windows, macOS, Solaris, FreeBSD, _etc_.
 
