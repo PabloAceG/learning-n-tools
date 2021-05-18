@@ -41,6 +41,7 @@ documentation, CI/CD, programming, etc.
 - [Projects](categories/Projects.md#projects)
   - [Paperwork](categories/Projects.md#paperwork)
 - [Security](categories/Security.md#security)
+  - [Fail2Ban](categories/security.md#fail2ban)
   - [OpenSCAP](categories/Security.md#openscap)
 
 ---
